@@ -1,0 +1,54 @@
+.headerSection{
+    background: #e3f2fd;
+}
+.container-fluid img {
+    width: 45px;
+}
+/* myBredcum */
+.myBredcum{
+    padding: 40px 0;
+}
+.breadcrumb {
+  
+    background: #e9ecef;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+/* hero */
+
+.carousel-item {
+ 
+    height: 550px;
+}
+
+/* myAlart */
+.myAlart{
+    padding: 40px 0;
+}
+/* myProgres */
+.myProgres{
+    padding: 40px 0;
+}
+.progress {
+
+    margin-bottom: 10px;
+}
+/* myModal */
+.myModal{
+    padding: 40px 0;
+}
+/* mySpy */
+.mySpy{
+    padding: 40px 0;
+}
+/* myNext */
+.myNext {
+    padding: 40px 0;
+    margin-left: 252px;
+}
+/* myFooter */
+.myFooter {
+    color: white;
+    text-align: center;
+    background: #17a2b8;
+}
